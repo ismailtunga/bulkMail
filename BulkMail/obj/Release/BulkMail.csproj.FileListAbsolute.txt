@@ -1,0 +1,12 @@
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\BulkMail.exe.config
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\BulkMail.exe
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\BulkMail.pdb
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\Microsoft.Exchange.WebServices.pdb
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\Microsoft.Exchange.WebServices.xml
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\bin\Release\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\obj\Release\BulkMail.csproj.CopyComplete
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\obj\Release\BulkMail.exe
+C:\Users\i.tunga\source\repos\BulkMail\BulkMail\obj\Release\BulkMail.pdb
